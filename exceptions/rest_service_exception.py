@@ -1,0 +1,2 @@
+class RestServiceException(Exception):
+    pass
